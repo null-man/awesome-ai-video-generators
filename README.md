@@ -110,6 +110,7 @@ Tools whose input is a script, a novel or a story idea and whose output is episo
 - [Adobe Firefly](https://firefly.adobe.com/) — Adobe's generative image and video tools, integrated with Creative Cloud.
 - [D-ID](https://www.d-id.com/) — Talking-avatar and video agent platform, with an API.
 - [Genmo](https://www.genmo.ai/) — Video generation service from the makers of the open-weight Mochi model.
+- [GrokVideo Studio](https://grokvideogenerator.dev/) — Independent web app (not an official xAI product) that turns a text prompt or reference image into 480p/720p clips via the Grok Imagine API: 6-30 s text-to-video, 1-15 s image-to-video; source: the site's homepage.
 - [Hailuo AI (MiniMax)](https://hailuoai.video/) — MiniMax's video generation service built on its Hailuo models, with an API.
 - [Kling AI](https://klingai.com/) — Kuaishou's video generation models and app: text-to-video, image-to-video, lip sync, a developer API.
 - [Leonardo.Ai](https://leonardo.ai/) — Image generation platform with a Motion feature for animating images into short clips.
